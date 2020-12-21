@@ -1,3 +1,5 @@
 files:
   - source: /**/lang/checkout/en.properties
     translation: /**/lang/checkout/%two_letters_code%.properties
+  - source: /**/lang/creditcards/en.properties
+    translation: /**/lang/creditcards/%two_letters_code%.properties
